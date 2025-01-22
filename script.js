@@ -4,7 +4,7 @@ let song = {
     title: "Apple",
     album: "Brat"
     <li><code>2023</code>
-    <li><code>isAvailable</code> (type: boolean)</li>
+    <code>isAvailable</code> (type: boolean)
         {ReleaseYear: 2023}
 
 }
