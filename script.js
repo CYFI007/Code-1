@@ -2,10 +2,10 @@
 
 let song = {
     title: "Apple",
-    album: "Brat"
-    <li><code>2023</code>
-    <code>isAvailable</code> (type: boolean)
-        {ReleaseYear: 2023}
+    album: "Brat",
+    ReleaseYear: 2023,
+   <code>isAvailable</code>
+    let isAvailable = false}
 
 }
 
